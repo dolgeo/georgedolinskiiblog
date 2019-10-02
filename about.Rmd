@@ -6,3 +6,15 @@ title: "About me"
 This section also must include: 
 
 - first name/surname, teacher’s name, class name and academic year
+
+Hello, my name is Dolinskii George. 
+
+teacher's name : Mrs Bouchet Variz
+
+group : 5
+
+class name : biology science
+
+academic name : 2019/2020
+
+subject : 
