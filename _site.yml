@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/dolge/georgedolinskiiblog
+      href: https://github.com/dolgeo/georgedolinskiiblog
 base_url: http://dolgeo.github.io/georgedolinskiiblog
 collections:
     posts:
