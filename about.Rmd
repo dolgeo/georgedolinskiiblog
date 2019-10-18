@@ -1,20 +1,19 @@
 ---
 title: "About me"
 ---
+Hello everybody,
+
+My name is Dolinskii George and i'm 21 years old.
+
+I'm in biology science (2019-2020)
+
+My english teacher is Mrs Bouchet and i'm in the group 5.
+
+My chosen topic is **impacts of climate change on the world**.
 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
 
-Hello, my name is Dolinskii George. 
 
-teacher's name : Mrs Bouchet Variz
 
-group : 5
 
-class name : biology science
-
-academic name : 2019/2020
-
-subject : 
