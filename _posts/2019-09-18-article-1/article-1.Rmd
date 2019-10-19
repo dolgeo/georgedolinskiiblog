@@ -1,8 +1,8 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
-author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+title: "Article 1 : Climate change may be throwing coral sex out of sync"
+author: 
+  - name: Dolinskii George
+date: 10-18-2019
 categories:
   - elephant
   - track
@@ -16,29 +16,48 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Source
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+ScienceNews [https://www.sciencenews.org/article/climate-change-throwing-coral-sex-out-sync] 
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| words from the text | synonym/explanation in english   |
+| ------------------- | -------------------------------- |
+| out of whack        | not working normally             |
+| throw out           | order something to leave a place |
+| plump               | fat                              |
+| bundles             | group of things tied together    |
+| widespread          | present in many places           |
+| spawn               | give birth to a young animal     |
+| swath               | large area of land               |
+| no longer           | happening in the past            |
+| dwindle             | decrease                         |
+| set out             | to start                         |
+| mingle              | to become mixed                  |
+| stretches           | to extend                        |
+| drift               | be moved by water                |
+| sync                | at the same time                 |
+| matters             | to be important                  |
+| manage              | to succeed in doing something    |
+| fretted             | worried about                    |
+| knock               | causing damage                   |
+| coping              | to face something                |
+| diligent            | working very hard                |
 
 ## Analysis table 
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+|                     |                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers         | Tom Shlesinger (a marine biologist), James Guest (a coral biologist) and Taryn Foster (a coral biologist)                                                                                                                                                                                                                                                                 |
+| Published in        | september 13, 2019 at 9:00 AM                                                                                                                                                                                                                                                                                                                                             |
+| General topic       | a warmer seawather temperatures could be playing a role in coral sex. Because the spawning sync depends on an interlocking set of environmental cues like temperature, sunlight, wind and the phase of the moon                                                                                                                                                           |
+| Procedure           | the reseacher shlesinger was snorleking or diving several hours a night during spawning. An another method is to compare the event on the world by data, but it's not easy finding old records with methods comparable today's. Because older data might have missed some of smaller blips in synchrony                                                                   |
+| conclusions         | corals split their spawning into two separate bursts, these corals break their spawning into roughly equal parts. That's a menace to the three corals, in five simple plots in each of two areas at Eilot that Shlesinger monitored. But he struggled to find youngsters for the three out-of-sync coral species. For two of them, he often found no new youngsters at all. |
+| remaining questions | /                                                                                                                                                                                                                                                                                                                                                                         |
 
 
-<https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
+
 
 
 
