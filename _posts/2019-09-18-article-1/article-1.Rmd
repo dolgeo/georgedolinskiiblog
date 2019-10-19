@@ -6,7 +6,7 @@ date: 10-18-2019
 categories:
   - climate change
   - track
-preview: http://blog.sciencescore.com/media/what-is-climate-change.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
