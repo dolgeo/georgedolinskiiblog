@@ -1,0 +1,51 @@
+---
+title: "Article 2 : climate change may be aiding a deadly fungus in infecting humains"
+description: |
+  
+author:
+  - name: Dolinskii George
+    url: {}
+date: 11-03-2019
+preview: https://www.sciencenews.org/wp-content/uploads/2019/07/072319_ac_candida-climate-change_feat.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+
+Sciences new for students [https://www.sciencenewsforstudents.org/article/climate-change-may-be-aiding-deadly-fungus-infecting-humans]
+
+## Vocabulary
+
+| words from the text | synonym/explanation in english                              |
+| ------------------- | ----------------------------------------------------------- |
+| fungal              | caused by a fungus                                          |
+| to show up          | to appear                                                   |
+| to spread           | disperse over an area                                       |
+| a health concern    | a health problem                                            |
+| cases               | a typical example of something                              |
+| turn up             | increase "power"                                            |
+| antifugal           | having properties that prevent or limit the growth of fungi |
+| to breach           | to escape to system immunity                                |
+| havoc               | situation where there is damage or destruction              |
+| to wreak            | cause damage                                                |
+| fellow creatures    | congeners                                                   |
+| wipe out            | to kill a person or animal                                  |
+| outbreaks           | disease                                                     |
+| white-nose syndrome | a fungal disease affecting bats                             |
+
+## Analysis table
+
+|                     |                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Reseachers          | Arturo Casadevall (microbiologist)                                                                                                                                                                                                                                                                                                |
+| Published in        | august 30, 2019 at 6:45 PM                                                                                                                                                                                                                                                                                                        |
+| General topic       | the number of cases of fungal infections that increase around the wold                                                                                                                                                                                                                                                            |
+| Procedure           | Past work has shown a fungus can grow at warmer temperatures in a lab. There was a lot of fungal species out there because they adapt to a warmer climate and some of them will then have the capacity to breach our thermal defenses. For example : C.Auris is a health concern because it can cause deadly infections in people |
+| conclusion          | there is a lot of our fellow creatures are being wiped out by fungi that are wreaking havoc on many animals and plants because they adapt to thermal defenses. one consequence is the climate change                                                                                                                              |
+| remaining questions | the fungal kingdoms is just so vast. if another fungus dangerous to humain evolves. "who knows what it will do to us ?"                                                                                                                                                                                                             |

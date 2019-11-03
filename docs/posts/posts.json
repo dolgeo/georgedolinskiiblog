@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-03-article-2-climate-change-may-be-aiding-a-deadly-fungus-in-infecting-humains/",
+    "title": "Article 2 : climate change may be aiding a deadly fungus in infecting humains",
+    "description": {},
+    "author": [
+      {
+        "name": "Dolinskii George",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-03",
+    "categories": [],
+    "preview": "https://www.sciencenews.org/wp-content/uploads/2019/07/072319_ac_candida-climate-change_feat.jpg",
+    "last_modified": "2019-11-03T19:20:04+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Climate change may be throwing coral sex out of sync",
     "description": {},
@@ -15,6 +30,6 @@
       "track"
     ],
     "preview": "https://www.sciencenews.org/wp-content/uploads/2019/09/091019_sm_coral_feat-1028x579.jpg",
-    "last_modified": "2019-11-03T18:11:16+01:00"
+    "last_modified": "2019-11-03T18:32:50+01:00"
   }
 ]
