@@ -6,6 +6,8 @@ author:
   - name: Dolinskii George
     url: {}
 date: 11-03-2019
+categories:
+  - fungus
 preview: https://www.sciencenews.org/wp-content/uploads/2019/07/072319_ac_candida-climate-change_feat.jpg
 output:
   distill::distill_article:
