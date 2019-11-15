@@ -1,7 +1,5 @@
 ---
 title: "Article 2 : climate change may be aiding a deadly fungus in infecting humains"
-description: |
-  
 author:
   - name: Dolinskii George
     url: {}
