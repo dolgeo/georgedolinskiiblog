@@ -1,0 +1,52 @@
+---
+title: "article 3 : climate change may cut soil's ability to absorb water"
+author:
+  - name: Dolinskii George
+    url: {}
+date: 11-15-2019
+categories:
+  - soil ability
+preview: https://cdn.downtoearth.org.in/library/large/2018-11-23/0.58714800_1542974796_12.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source 
+
+ScienceDaily [https://www.sciencedaily.com/releases/2019/09/190911151204.htm]
+
+## Vocabulary
+
+| words from the text | synonym/explanation in english                                                            |
+| ------------------- | ----------------------------------------------------------------------------------------- |
+| cut                 | reduce                                                                                    |
+| groundwater         | water that flows under the ground                                                         |
+| stormwater          | rainwater                                                                                 |
+| runoff              | a flow of water from one place to another, especially when this damages the environnement |
+| are shifting        | are evolving                                                                              |
+| appreciably         | significant                                                                               |
+| greenhouse gases    | carbon dioxide is a greenhouse gas                                                        |
+| flash flooding      | a sudden unexpected deluge                                                                |
+| sprinkler           | equipment that automatically sprinkles water on garden                                    |
+| enhanced            | improved                                                                                  |
+| clog                | block tube or passage                                                                     |
+| extrapolate         | understand something                                                                      |
+| a wider array       | it's like a large range                                                                   |
+| shift               | changement                                                                                |
+| rainfall            | the amount of rain that falls in particular area during a particular period of time       |
+
+## Analysis table
+
+|                     |                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Researchers         | Daniel Giménez (a scientist and professor at rutgers university NewBrunswick)                                                                                                                                                                                                                                                                                     |
+| Published in        | september 11, 2019                                                                                                                                                                                                                                                                                                                                                |
+| General topic       | climate change may reduce the ability of soils to absorb water in many parts of the world                                                                                                                                                                                                                                                                         |
+| Procedure           | During a 25 year experiment in Kansas that involved irrigation of prairie soil with sprinklers. A Rutgers-led team of scientists found that a 35% increase in rainfall led to a 21-33% reduction in water infiltration rates in soil and only a small increase in water retention. The next step is to investigate the mechanisms driving the observed changes.   |
+| conclusion          | the scientist would like to extrapolate the findings to other regions of the world and they want to study a wider array of environmental factors, soil types and identify other soil changes that may result from climate change                                                                                                                                 |
+| remaining questions | /                                                                                                                                                                                                                                                                                                                                                                 |

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-11-15-article-3-climate-change-may-cut-soils-ability-to-absorb-water/",
+    "title": "article 3 : climate change may cut soil's ability to absorb water",
+    "description": {},
+    "author": [
+      {
+        "name": "Dolinskii George",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-15",
+    "categories": [
+      "soil ability"
+    ],
+    "preview": "https://cdn.downtoearth.org.in/library/large/2018-11-23/0.58714800_1542974796_12.jpg",
+    "last_modified": "2019-11-16T12:31:30+01:00"
+  },
+  {
     "path": "posts/2019-11-03-article-2-climate-change-may-be-aiding-a-deadly-fungus-in-infecting-humains/",
     "title": "Article 2 : climate change may be aiding a deadly fungus in infecting humains",
     "description": {},
@@ -32,6 +49,6 @@
       "track"
     ],
     "preview": "https://www.sciencenews.org/wp-content/uploads/2019/09/091019_sm_coral_feat-1028x579.jpg",
-    "last_modified": "2019-11-15T11:18:32+01:00"
+    "last_modified": "2019-11-15T11:23:25+01:00"
   }
 ]
