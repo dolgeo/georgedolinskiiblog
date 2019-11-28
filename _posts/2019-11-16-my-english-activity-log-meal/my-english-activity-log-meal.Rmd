@@ -3,7 +3,7 @@ title: "My English Activity Log M.E.AL"
 author:
   - name: Dolinskii George
     url: {}
-date: 11-16-2019
+date: 09-16-2019
 categories:
   - English activity
 preview: 
