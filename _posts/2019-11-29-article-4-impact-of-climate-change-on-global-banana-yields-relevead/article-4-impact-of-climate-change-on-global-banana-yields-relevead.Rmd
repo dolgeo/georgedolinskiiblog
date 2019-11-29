@@ -1,0 +1,42 @@
+---
+title: "article 4 : impact of climate change on global banana yields relevead"
+author:
+  - name: Dolinskii George
+    url: {}
+date: 11-29-2019
+categories:
+  - banana
+preview: https://img-aws.ehowcdn.com/350x235p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/40c8dd09bee74cd18de4e3a9f375ae80.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+
+ScienceDaily [https://www.sciencedaily.com/releases/2019/09/190902113623.htm]
+
+## Vocabulary
+
+| words from the text | synonym/explanation in english                                                             |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| yield               | to produce fruit                                                                           |
+| crop                | a plant grown for food                                                                     |
+| income              | money that someone gets from investing money                                               |
+| highlight           | underline                                                                                  |
+| wilt                | if a plant wilts, it gradually bends towards the ground because it needs water or is dying |
+| trade               | commerce, business                                                                         |
+| commodity           | something that can be bought and sold, especially a basic food product                     |
+| to ensure           | to provide                                                                                 |
+| to assess           | to evaluate                                                                                |
+| trend               | effect, change                                                                             |
+| to scatter          | to spread, to disperse                                                                     |
+| counteract          | to reduce the negative effect of something by doing something that has an opposite effect  |
+
+## Analysis table
+
+
