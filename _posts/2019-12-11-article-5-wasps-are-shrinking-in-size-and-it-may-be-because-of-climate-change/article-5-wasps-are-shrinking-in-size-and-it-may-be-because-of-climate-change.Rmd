@@ -1,0 +1,41 @@
+---
+title: " article 5 : Wasps are shrinking in size and it may be because of climate change"
+author:
+  - name: Dolinskii George
+    url: {}
+date: 12-11-2019
+categories:
+  - wasps
+preview: https://pbs.twimg.com/media/EA_sKLEWwAAAnK5.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+
+NewScientist [https://www.newscientist.com/article/2212024-wasps-are-shrinking-in-size-and-it-may-be-because-of-climate-change/]
+
+## Vocabulary
+
+words from the text  | synonym/explanation in english
+------------- | -------------
+shrink  | to become smaller in size
+ongoing  | still happening
+sparrow  | a small brown bird
+poorly  | badly
+over time  | with time
+tied  | linked
+speed up  | accelerate
+handful  | minor
+hive  | a container in which bees live and make honey
+hunt  | to kill animals for food
+
+## Analysis table
+
+
+
