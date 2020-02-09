@@ -1,0 +1,44 @@
+---
+title: "article 6 Climate change may be why birds are migrating earlier across the United States"
+description: |
+  Birds are migrating earlier in recent decades, which could disrupt feeding and nesting cycles
+author:
+  - name: Dolinskii George
+    url: {}
+date: 02-09-2020
+categories:
+  - Birds
+preview: https://www.sciencenews.org/wp-content/uploads/2019/12/121319_sb_bird-migration_feat-1028x579.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+
+ScienceNews [https://www.sciencenews.org/article/climate-change-why-birds-are-migrating-earlier-across-united-states]
+
+## Vocabulary
+
+| words from the text |  synonym/explanation in english                                                      |
+| ------------------- | ------------------------------------------------------------------------------------ |
+| to nest             | if a bird nests, it builds or uses a nest, especially to keep its eggs and babies in |
+| a broad             | a wide                                                                               |
+| fall night          | autumn night                                                                         |
+| breadth             | the distance from one side of an object to the other                                 |
+| encompass           | to include a lot of people or things                                                 |
+| overhead            | above your head                                                                      |
+| trend               | effect                                                                               |
+| toward              | advancing                                                                            |
+| weak                | low                                                                                  |
+| grounded by         | stopped by                                                                           |
+| out of whack        | not working normally                                                                 |
+| breeding ground     | a place where animals reproduce                                                      |
+| to starve           | to suffer or to die because there is not enough food                                 |
+| dwindle             | to become gradually less                                                             |
+
+
