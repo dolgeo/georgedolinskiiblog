@@ -1,0 +1,43 @@
+---
+title: "article 7 : Here’s how climate change may make Australia’s wildfires more common"
+description: |
+  Extreme wildfires down under are linked to a weather pattern that starts in the Indian Ocean
+author:
+  - name: Dolinskii George
+    url: {}
+date: 02-23-2020
+categories:
+  - wildfires
+preview: https://www.sciencenews.org/wp-content/uploads/2020/01/010820_CG_wildfire_QA_feat-1028x579.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+
+ScienceNews [https://www.sciencenews.org/article/how-climate-change-may-make-australia-wildfires-more-common]
+
+## Vocaubulary
+
+|  words from the text | synonym/explanation in english                                      |
+| -------------------- | ------------------------------------------------------------------- |
+| raging               | happening with a lot of force or violence                           |
+| drought              | a long period of time when there is little or no rain and crops die |
+| moisture             | a small amount of water or another liquid in the air                |
+| blaze                | fire                                                                |
+| culprit              | cause                                                               |
+| outlook              | predict                                                             |
+| flooding             | inundation                                                          |
+| landslide            | mudslide                                                            |
+| bushfires            | wildfires                                                           |
+|  haze                | fog                                                                 |
+| threefold            | triple                                                              |
+| substed              | decreased                                                           |
+| substantial          | considerable                                                        |
+|                      |                                                                     |
+

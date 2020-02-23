@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-23-article-7-heres-how-climate-change-may-make-australias-wildfires-more-common/",
+    "title": "article 7 : Here’s how climate change may make Australia’s wildfires more common",
+    "description": "Extreme wildfires down under are linked to a weather pattern that starts in the Indian Ocean",
+    "author": [
+      {
+        "name": "Dolinskii George",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-23",
+    "categories": [
+      "wildfires"
+    ],
+    "preview": "https://www.sciencenews.org/wp-content/uploads/2020/01/010820_CG_wildfire_QA_feat-1028x579.jpg",
+    "last_modified": "2020-02-23T19:06:08+01:00"
+  },
+  {
     "path": "posts/2020-02-09-article-6-climate-change-may-be-why-birds-are-migrating-earlier-across-the-united-states/",
     "title": "article 6 Climate change may be why birds are migrating earlier across the United States",
     "description": "Birds are migrating earlier in recent decades, which could disrupt feeding and nesting cycles",
