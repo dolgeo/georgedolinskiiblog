@@ -1,5 +1,5 @@
 ---
-title: "article 6 Climate change may be why birds are migrating earlier across the United States"
+title: "article 6 : Climate change may be why birds are migrating earlier across the United States"
 description: |
   Birds are migrating earlier in recent decades, which could disrupt feeding and nesting cycles
 author:
