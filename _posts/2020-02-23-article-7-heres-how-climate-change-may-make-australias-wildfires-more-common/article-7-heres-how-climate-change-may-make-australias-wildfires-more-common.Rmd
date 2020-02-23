@@ -39,5 +39,4 @@ ScienceNews [https://www.sciencenews.org/article/how-climate-change-may-make-aus
 | threefold            | triple                                                              |
 | substed              | decreased                                                           |
 | substantial          | considerable                                                        |
-|                      |                                                                     |
 
