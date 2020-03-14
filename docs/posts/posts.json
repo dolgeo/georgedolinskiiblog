@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-03-14-article-8-what-is-climate-change-and-how-is-it-affecting-earth/",
+    "title": "article 8 : What is climate change, and how is it affecting Earth ? ",
+    "description": "Climate change is any long-term alteration in average weather patterns.",
+    "author": [
+      {
+        "name": "Dolinskii George",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-14",
+    "categories": [
+      "greenhouse gases"
+    ],
+    "preview": "https://cdn.mos.cms.futurecdn.net/m7bQd3TJ6wDCnmHyzkTtmc-650-80.jpg",
+    "last_modified": "2020-03-14T14:57:08+01:00"
+  },
+  {
     "path": "posts/2020-02-23-article-7-heres-how-climate-change-may-make-australias-wildfires-more-common/",
     "title": "article 7 : Here’s how climate change may make Australia’s wildfires more common",
     "description": "Extreme wildfires down under are linked to a weather pattern that starts in the Indian Ocean",

@@ -1,0 +1,41 @@
+---
+title: "article 8 : What is climate change, and how is it affecting Earth ? "
+description: |
+  Climate change is any long-term alteration in average weather patterns.
+author:
+  - name: Dolinskii George
+    url: {}
+date: 03-14-2020
+categories:
+  greenhouse gases
+preview: https://cdn.mos.cms.futurecdn.net/m7bQd3TJ6wDCnmHyzkTtmc-650-80.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source
+
+LiveScience [https://www.livescience.com/climate-change.html]
+
+## Vocabulary
+
+| Words from the text | synonym/explanation in english                                          |
+| ------------------- | ----------------------------------------------------------------------- |
+| Flow                | rate                                                                    |
+| thrive              | prosper                                                                 |
+| blur                | it becomes difficult to see it clearly                                  |
+| chock-full          | very full, especially with things that are pleasant or enjoyable        |
+| ash                 | the grey powder that remains after something has burned                 |
+| wealth              | fortune                                                                 |
+| coverage            | the amount and type of protection that an insurance agreement gives you |
+| swift               | quickly                                                                 |
+| shell               | the hard outer part that protects the body of a sea creature            |
+| forestall           | prevent                                                                 |
+
+## Analysis table
+
